@@ -1,1 +1,2 @@
-# C36-CarRG_Alumno
+# MovimientoDePelotaAsincorono
+Boilerplate para movimiento de la pelota de forma asíncrona
